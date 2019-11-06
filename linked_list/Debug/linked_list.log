@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Project\linked_list\linked_list\list.h(80): warning C4715: list<Country>::operator[]: значение возвращается не при всех путях выполнения
+  linked_list.vcxproj -> D:\Project\linked_list\Debug\linked_list.exe
